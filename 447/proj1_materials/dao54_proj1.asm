@@ -1,5 +1,4 @@
-# YOUR NAME HERE
-# YOUR USERNAME HERE
+# David Obaro
 
 # Cardinal directions.
 .eqv DIR_N 0
