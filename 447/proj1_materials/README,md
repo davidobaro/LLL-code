@@ -1,0 +1,1 @@
+This project is a Snake emulator. It allows the player to consume up to 20 apples before the game ends. Other ways the game can end include the snake colliding with the border or the snake head colliding with another part of its body.
